@@ -8,6 +8,4 @@ public class Sample{
 		System.out.println("this is implemented  method in Tea class");
 
 	}
-
-	
 }
